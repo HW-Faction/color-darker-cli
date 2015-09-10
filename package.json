@@ -1,0 +1,16 @@
+{
+  "name": "color-darker",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "flask",
+  "license": "MIT",
+  "bin": {
+    "color-darker": "bin/index.js"
+  },
+  "dependencies": {
+    "shelljs": "^0.5.3"
+  }
+}
